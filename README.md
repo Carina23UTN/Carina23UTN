@@ -1,4 +1,4 @@
-### Hola, soy 👋 Carina!
+### Hola, soy Carina👋!
 
 **Carina23UTN/Carina23UTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
