@@ -1,4 +1,4 @@
-### Hola, soy Carina👋!
+# Hola, soy Carina👋!
 
 **Carina23UTN/Carina23UTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,7 +7,7 @@
 - 🌱 Me encuentro cursando la Diplomatura en Desarrollo Web y Multimedial en la UTN.
 - 📫 Mi contacto: caridelgado1981@hotmail.com
 
-## Conocimiento en las siguientes tecnologías:
+# Conocimiento en las siguientes tecnologías:
 - GitHub
 - HTML
 - CSS
