@@ -7,4 +7,12 @@
 - 🌱 Me encuentro cursando la Diplomatura en Desarrollo Web y Multimedial en la UTN.
 - 📫 Mi contacto: caridelgado1981@hotmail.com
 
-
+## Conocimiento en las siguientes tecnologías:
+- GitHub
+- HTML
+- CSS
+- Illustrator
+- DevOps
+- Microsoft Visio
+- Figma
+- Bizagi Modeler
